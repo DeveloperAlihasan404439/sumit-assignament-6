@@ -1,6 +1,7 @@
 ![Logo](https://avatars.githubusercontent.com/u/73503432?v=4)
 
 # Sumit Assignament 6
+[Demo](https://shop-center-sumit-6.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
